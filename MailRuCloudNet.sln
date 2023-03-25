@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailRuCloudNet", "MailRuCloudNet\MailRuCloudNet.csproj", "{A5472AB6-1892-4047-8990-B15A0D09FB9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MailRuCloudConsole", "MailRuCloudConsole\MailRuCloudConsole.csproj", "{960F4FF3-163D-49E0-86A0-C4B1E9834B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5472AB6-1892-4047-8990-B15A0D09FB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5472AB6-1892-4047-8990-B15A0D09FB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5472AB6-1892-4047-8990-B15A0D09FB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5472AB6-1892-4047-8990-B15A0D09FB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960F4FF3-163D-49E0-86A0-C4B1E9834B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960F4FF3-163D-49E0-86A0-C4B1E9834B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960F4FF3-163D-49E0-86A0-C4B1E9834B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960F4FF3-163D-49E0-86A0-C4B1E9834B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CC3719B-F09D-4B5C-B512-7E8BFB4BB184}
+	EndGlobalSection
+EndGlobal
